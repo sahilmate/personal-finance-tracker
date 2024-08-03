@@ -84,11 +84,6 @@ Ensure that there are no formatting errors, such as missing commas or mismatched
 - **Error Tokenizing Data:** This error often occurs if the CSV file contains malformed data. Ensure that the file does not have any incorrect formatting or extra commas.
 - **Invalid Date Format:** Ensure that dates are entered in the format `dd-mm-yyyy`.
 
-## Contribution
-
-Contributions are welcome! Please submit a pull request or open an issue if you have suggestions or improvements.
-
-
 ## Output Example
 
 ### Adding a Transaction
@@ -119,4 +114,9 @@ Net Savings: $2376.00
 
 ![Income and Expenses Over Time](Figure_1.png)
 The graph helps visualize the distribution of income and expenses, providing insights into your financial trends.
+
+## Contribution
+
+Contributions are welcome! Please submit a pull request or open an issue if you have suggestions or improvements.
+
 
