@@ -112,7 +112,7 @@ Net Savings: $2376.00
 
 ### Plot Example
 
-![Income and Expenses Over Time](Figure_1.png)
+![Income and Expenses Over Time](result.png)
 The graph helps visualize the distribution of income and expenses, providing insights into your financial trends.
 
 ## Contribution
